@@ -12,3 +12,4 @@ The project aims to provide a hands-on learning experience in computer organizat
 
 ## Usage 🚀:
 Please refer to the project documentation for detailed instructions on compilation, execution, and further explanations.
+The project is compatible with Microsoft Visual Studio for development and execution.
